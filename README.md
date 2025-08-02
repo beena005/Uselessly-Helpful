@@ -1,96 +1,64 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="1903" height="914" alt="image" src="https://github.com/user-attachments/assets/0a345576-94a8-45d5-bbbe-ad978855fedc" /><img width="1903" height="914" alt="image" src="https://github.com/user-attachments/assets/a2d0be7c-08f2-4c6f-b543-1c7e02a8fb30" /><img width="1903" height="914" alt="image" src="https://github.com/user-attachments/assets/70c2c4b3-d3eb-4e03-8e05-fd801a87e938" /><img width="1903" height="914" alt="image" src="https://github.com/user-attachments/assets/74ac69c9-d05a-425d-aa6e-0da6069f3678" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Uselessly Helpful 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Codemakers
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Beena Antony - Mar Baselios Christian College of Engineering and Technology, Kuttikkanam
+- Member 2: Lisa Rachel Oommen - Mar Baselios Christian College of Engineering and Technology, Kuttikkanam
 
 ### Project Description
-[2-3 lines about what your project does]
+Uselessly Helpful™ is a satirical website that parodies modern web applications with beautifully designed but completely useless features. It includes a forgetful chatbot, word-jumbling translator, placebo buttons, and a page that randomly rotates - all presented with professional polish to highlight the absurdity of pointless digital experiences. This project demonstrates advanced web development skills while delivering humor through intentionally frustrating interactions.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People have too many meaningful conversations and not enough nonsense in their lives.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+ Uselessly Helpful™ solves this by offering meticulously crafted features that look functional but deliver absolutely nothing of substance—because sometimes, you just need your expectations hilariously subverted.
+ 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
+- HTML, CSS, JavaScript
+- Tools used: VS Code, GitHub 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/9c081207-2085-4a56-bbef-61d52dda4ffc" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1903" height="903" alt="image" src="https://github.com/user-attachments/assets/6c7b7d15-717f-43e3-95b4-a2ce0680782e" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1903" height="914" alt="image" src="https://github.com/user-attachments/assets/6237383c-c6de-4cc5-bced-7f9e528ad9fc" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Above 3 are the screenshots of the webpage.
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1hqRhcGYrNlir-nGV-jtcFO58oK-k4tXl/view?usp=sharing
+
+ Uselessly Helpful™ is a most beautifully pointless creation and satirical web experience that combines professional-grade design with absolutely zero functionality. This interactive masterpiece features:
+
+The Disorientator™: Our page rotates 180° regularly because we believe in keeping users permanently off-balance
+
+Forgetful AI™: A chatbot that remembers nothing - not even its own name
+
+Polyglot Pretender™: A "translator" that expertly jumbles words into meaningless arrangements
+
+Placebo Buttons™: Gorgeous, clickable UI elements that deliver nothing but disappointment
+
+404 Fun Not Found: An error page that celebrates failure with confetti and clown emojis
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Beena Antony : Webdevelopment
+- Lisa Rachel :  Webdevelopment
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
