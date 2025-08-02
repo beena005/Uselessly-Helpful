@@ -28,15 +28,16 @@ For Software:
 - Tools used: VS Code, GitHub 
 
 # Screenshots (Add at least 3)
-<img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/9c081207-2085-4a56-bbef-61d52dda4ffc" />
-
-<img width="1903" height="903" alt="image" src="https://github.com/user-attachments/assets/6c7b7d15-717f-43e3-95b4-a2ce0680782e" />
-
-<img width="1903" height="914" alt="image" src="https://github.com/user-attachments/assets/6237383c-c6de-4cc5-bced-7f9e528ad9fc" />
 
 Above 3 are the screenshots of the webpage.
 
+<img width="1913" height="910" alt="Screenshot 2025-08-02 054145" src="https://github.com/user-attachments/assets/bab88f54-35ba-4031-aadd-7045d4d67ddb" />
 
+<img width="1903" height="903" alt="Screenshot 2025-08-02 054208" src="https://github.com/user-attachments/assets/2eee5bdf-fd2d-4ff8-9968-daed0dab76d7" />
+
+
+<img width="1903" height="914" alt="Screenshot 2025-08-02 054232" src="https://github.com/user-attachments/assets/1382ed2f-02cb-4d04-87e4-363694a8a091" />
+Above 3 are the screenshots of the webpage.
 
 ### Project Demo
 # Video
